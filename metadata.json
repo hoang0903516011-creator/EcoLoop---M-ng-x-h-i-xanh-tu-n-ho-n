@@ -1,0 +1,10 @@
+{
+  "name": "Remix GreenNet",
+  "description": "Mạng xã hội xanh kết nối cộng đồng, nhận diện phân loại rác thải thông minh EcoBot và trò chơi giáo dục môi trường 3D.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
